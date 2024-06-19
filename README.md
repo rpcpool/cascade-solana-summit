@@ -2,6 +2,14 @@
 
 Scripts that self transfers SOL with various configurations to demonstrate the importance of sending optimized transactions
 
+Presentation: https://docs.google.com/presentation/d/1kJPX_kZbHSU_WB2v0PtSD9gARVjbgVSmG2PT6nxZzLQ/edit?usp=sharing 
+
+Endpoints:
+1. No Jet: https://tritono-main-e861.mainnet.rpcpool.com/aa6544ed-6f6a-4af9-95b0-8b6811593a84
+
+2. Jet: https://tritono-main-e861.mainnet.rpcpool.com/1b393e72-6fe6-4945-9178-4c8de272a3c6
+
+
 ### Prerequisites
 1. NodeJS: https://nodejs.org/en/download/package-manager 
 2. Wallet private key. See #generate-private-key
